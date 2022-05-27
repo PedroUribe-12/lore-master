@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://scontent.faep9-3.fna.fbcdn.net/v/t31.18172-8/24291518_189180784992072_6580943100474963891_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=PGAM4om4ASkAX_9KMai&_nc_ht=scontent.faep9-3.fna&oh=00_AT-_SYRf-xwh6XtsDq9vGAL_HwzPOncGJyj1K1NKMbY_Hg&oe=62B64E5E");
+  background-size: cover;
+    background-repeat:no-repeat;
+  }
+.nav{
+    background-color: transparent !important;
+}
+
+#letras{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
